@@ -1,0 +1,1 @@
+This folder contains bootstrap themes from https://bootswatch.com/. All rights reserved to their corresponding authors.
