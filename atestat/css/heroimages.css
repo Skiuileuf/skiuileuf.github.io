@@ -1,0 +1,19 @@
+.heroindex {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../res/coral1.png);
+}
+
+.heroabout {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../res/library.png);
+}
+
+.hero2b2t {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../res/2b2t.jpg);
+}
+
+.heromodding {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../res/bcquarry.png);
+}
+
+.heroguide {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../res/flowerforest.png);
+}
