@@ -1,4 +1,3 @@
-from email.mime import image
 import glob
 from docxtpl import DocxTemplate
 from docxtpl import InlineImage
