@@ -23,7 +23,7 @@ body, html {
   }
   
   /* Place text in the middle of the image */
-  .hero-text {
+.hero-text {
     text-align: center;
     position: absolute;
     top: 50%;
@@ -80,4 +80,14 @@ body, html {
 a{
     color: white;
     text-decoration: none;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-color: #f2f2f2;
+}
+
+
+.white {
+    color:#f2f2f2;
 }
